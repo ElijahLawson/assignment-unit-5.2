@@ -1,0 +1,17 @@
+.head {
+    background-color: darkslategray;
+    color: cornsilk;
+    text-align: center;
+}
+
+.thing {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url("../assignment/record.png");
+    background-repeat: repeat;
+    margin: 0px;
+
+}
